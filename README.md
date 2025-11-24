@@ -83,4 +83,6 @@ Monthly profit bar chart with positive/negative profit differentiation
 Fully interactive slicers for deep analysis
 
 **Repository Structure**
-Data : 
+Data : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blob/main/Sales_Data.csv
+Dashboard : 
+Image :
