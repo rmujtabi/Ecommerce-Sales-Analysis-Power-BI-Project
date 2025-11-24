@@ -81,3 +81,6 @@ State-wise & Customer-wise drill-down
 Donut charts for category & payment mode comparison
 Monthly profit bar chart with positive/negative profit differentiation
 Fully interactive slicers for deep analysis
+
+**Repository Structure**
+Data : 
