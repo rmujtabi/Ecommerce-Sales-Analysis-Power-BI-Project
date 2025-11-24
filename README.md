@@ -85,4 +85,4 @@ Fully interactive slicers for deep analysis
 **Repository Structure**
 Data : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blob/main/Sales_Data.csv
 Dashboard : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blob/main/Sales%20Data.pbix
-Image :
+Image : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BIProject/blob/main/Ecommerce%20Sales%20Analysis.png
