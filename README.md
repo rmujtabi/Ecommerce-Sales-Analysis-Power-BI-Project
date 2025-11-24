@@ -87,5 +87,5 @@ Data : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blo
 
 Dashboard : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blob/main/Sales%20Data.pbix
 
-Image : 
-"C:\Users\Zilani\OneDrive\Pictures\Screenshots\Ecommerce Sales Analysis.png"
+Image : https://github.com/rmujtabi/Ecommerce-Sales-Analysis-Power-BI-Project/blob/main/Ecommerce%20Sales%20Analysis.png
+
